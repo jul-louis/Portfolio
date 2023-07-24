@@ -1,0 +1,84 @@
+{
+  "images": [
+    {
+      "src": "src/media/images/1.jpeg",
+      "caption": "Peaceful Lake in B&W"
+    },
+    {
+      "src": "src/media/images/2.jpg",
+      "caption": "Leaving - 2017"
+    },
+    {
+      "src": "src/media/images/3.jpeg",
+      "caption": "Mountains"
+    },
+    {
+      "src": "src/media/images/4.jpg",
+      "caption": "Light through the Leaves"
+    },
+    {
+      "src": "src/media/images/5.JPG",
+      "caption": "Light in an Office"
+    },
+    {
+      "src": "src/media/images/6.jpg",
+      "caption": "Polaroid Art: Blue Phalaenopsis Petals， The Aesthetics of a Moment"
+    },
+    {
+      "src": "src/media/images/7.jpg",
+      "caption": "Red Light"
+    },
+    {
+      "src": "src/media/images/8.JPG",
+      "caption": "Bird standing on the branch"
+    },
+    {
+      "src": "src/media/images/9.JPG",
+      "caption": "Is this reality or a mirage? Trees by The Sky"
+    },
+    {
+      "src": "src/media/images/10.jpg",
+      "caption": "A dewdrop on a leaf"
+    },
+    {
+      "src": "src/media/images/11.png",
+      "caption": "Tuna Tataki"
+    },
+    {
+      "src": "src/media/images/12.jpg",
+      "caption": "Yakitori with my bestie in an Izakaya"
+    },
+    {
+      "src": "src/media/images/13.png",
+      "caption": "Yakitori 2"
+    },
+    {
+      "src": "src/media/images/14.png",
+      "caption": "Breakfast at a local restaurant"
+    },
+    {
+      "src": "src/media/images/15.JPG",
+      "caption": "Lotus"
+    },
+    {
+      "src": "src/media/images/16.png",
+      "caption": "My Camera MiNT RF-70"
+    },
+    {
+      "src": "src/media/images/17.JPG",
+      "caption": "Blue Sky"
+    },
+    {
+      "src": "src/media/images/18.jpg",
+      "caption": "Street Art - Mississauga"
+    },
+    {
+      "src": "src/media/images/19.png",
+      "caption": "LANY Tour - Toronto"
+    },
+    {
+      "src": "src/media/images/20.jpg",
+      "caption": "White Lotus"
+    }
+  ]
+}
