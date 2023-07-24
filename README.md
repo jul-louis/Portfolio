@@ -4,4 +4,5 @@
 
 # From Vanilla JS to React+Vite+TailWindCSS
 
-[a link] (https://krakenlouis.com)
+Website Access: https://krakenlouis.com
+Hosted with AWS Amplify & Git
